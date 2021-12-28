@@ -1,11 +1,19 @@
-# 100 días de código - diario
+## 100 días de código - diario
 
-### Día 0: 26 de febrero de 2021
+### Día 1: 27 diciembre de febrero de 2021
 
-##### (elimine o comente)
+**Progreso de hoy**: repaso completo de **CSS Básico**
+
+**Reflexiones**: Si no se ejercita el cuerpo se pierde flexibilidady habilidades. Así es todo en la vida. 
+
+**Enlace a mi trabajo**: Aún sin prácticas publicadas
+
+
+### Día 0: 26 de diciembre de 2021
 
 **Progreso de hoy**: Repaso completo de HTML básico y HTML5 desde Freecodecamp Curso Diseño Web Responsivo.
 
-**Reflexiones:** Fue muy refrescante repasar lo básico y reforzar algunas redundancias necesarias cuando etiquetamos HTML.
-**Enlace a mi trabajo:** No hay pues son ejercicios del curso. Veré que hago en CSS acabo de descubrir los challenges en Freecodecamp
+**Reflexiones**: Fue muy refrescante repasar lo básico y reforzar algunas redundancias necesarias cuando etiquetamos HTML.
+
+**Enlace a mi trabajo**: Aún sin publicar desde Freecodecamp
 

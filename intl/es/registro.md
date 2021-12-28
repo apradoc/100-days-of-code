@@ -1,6 +1,6 @@
 ## 100 días de código - diario
 
-### Día 1: 27 diciembre de febrero de 2021
+### Día 1: 27 diciembre de 2021
 
 **Progreso de hoy**: repaso completo de **CSS Básico**
 

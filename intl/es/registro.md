@@ -1,5 +1,15 @@
 ## 100 días de código - diario
 
+
+### Día 2: 28 diciembre de 2021
+
+**Progreso de hoy:** repaso completo Diseño Visual Aplicado
+
+**Reflexiones:** Iniciar los ejercicios más temprano.
+
+**Enlace a mi trabajo:** Aún sin prácticas publicadas
+
+
 ### Día 1: 27 diciembre de 2021
 
 **Progreso de hoy**: repaso completo de **CSS Básico**

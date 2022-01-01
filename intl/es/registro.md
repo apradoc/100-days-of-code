@@ -1,5 +1,12 @@
 ## 100 días de código - diario
 
+### Dia 4: 1 de enero de 2022
+
+**Progreso de hoy:** Responsive Web Design
+
+**Reflexiones**: La fiesta, el día. la broma ... 31 dic.
+
+
 ### Día 3: 30 de Diciembre de 2021
 
 **Progreso de hoy:** Completado Accesibilidad aplicada

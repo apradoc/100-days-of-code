@@ -1,5 +1,12 @@
 ## 100 días de código - diario
 
+### Dia 5: 2 de enero de 2022
+
+**Progreso de hoy:** CSS Flexbox
+
+**Reflexiones**: Fascinante como controlar la fluides de los elementos.
+
+
 ### Dia 4: 1 de enero de 2022
 
 **Progreso de hoy:** Responsive Web Design
